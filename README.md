@@ -8,4 +8,5 @@ Features:
 
 Tools: Lens Studio, Blender
 
+This project was created as part of my school assginment practice.
 #Demo is uploaded as well.#
